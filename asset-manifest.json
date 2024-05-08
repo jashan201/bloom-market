@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bloom-market/static/css/main.e06bd4f8.css",
+    "main.js": "/bloom-market/static/js/main.49fc9185.js",
+    "index.html": "/bloom-market/index.html",
+    "main.e06bd4f8.css.map": "/bloom-market/static/css/main.e06bd4f8.css.map",
+    "main.49fc9185.js.map": "/bloom-market/static/js/main.49fc9185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06bd4f8.css",
+    "static/js/main.49fc9185.js"
+  ]
+}
